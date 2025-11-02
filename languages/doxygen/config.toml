@@ -1,0 +1,6 @@
+name = "Doxygen"
+grammar = "doxygen"
+path_suffixes = ["c"]
+line_comments = ["//"]
+[grammar.doxygen]
+repository="file://~/Documents/dev/tree-sitter-doccomment"
