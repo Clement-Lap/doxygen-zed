@@ -1,9 +1,9 @@
-id = "doc-comment"
-name = "Documentation Comments"
-version = "0.0.1"
+id = "doxygen"
+name = "Documentation Comments (Doxygen)"
+version = "0.1.0"
 schema_version = 1
 authors = ["LAPORTE Clément <clem@etik.com>"]
-description = "Zed Extension for documentation comments (Doxygen, Javadoc, and similar notation)"
+description = "Zed Extension for documentation comments (Doxygen, Javadoc, and similar notation). Currently supports C and C++, but future languages will be added."
 repository = "https://github.com/Clement-Lap/zed-doxygen-extension"
 
 
