@@ -4,4 +4,17 @@ version = "0.0.1"
 schema_version = 1
 authors = ["LAPORTE Clément <clem@etik.com>"]
 description = "Zed Extension for documentation comments (Doxygen, Javadoc, and similar notation)"
-repository = ""
+repository = "https://github.com/Clement-Lap/zed-doxygen-extension"
+
+
+[grammars.c]
+repository = "https://github.com/tree-sitter/tree-sitter-c"
+rev = "7fa1be1b694b6e763686793d97da01f36a0e5c12"
+
+[grammars.cpp]
+repository = "https://github.com/tree-sitter/tree-sitter-cpp"
+rev = "12bd6f7e96080d2e70ec51d4068f2f66120dde35"
+
+[grammars.doxygen]
+repository = "https://github.com/Clement-Lap/tree-sitter-doxygen"
+rev = "6dc085cfd991dfefe05cbe9ea21d803d684e0fa2"
