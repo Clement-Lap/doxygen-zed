@@ -1,6 +1,3 @@
-[doxygen-zed]
-submodule = "extensions/doxygen-zed"
-
 id = "doxygen-zed"
 name = "Documentation Comments (Doxygen)"
 version = "0.1.0"
