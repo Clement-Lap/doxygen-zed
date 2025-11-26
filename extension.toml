@@ -1,4 +1,4 @@
-id = "doxygen-zed"
+id = "doxygen"
 name = "Documentation Comments (Doxygen)"
 version = "0.1.0"
 schema_version = 1
